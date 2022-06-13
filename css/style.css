@@ -2534,17 +2534,17 @@ ul li img{
     }
 
     .card-body p{
-        font-size: 0.7;
+        font-size: 0.9rem;
     }
     .card-head h1{
         font-size: 1rem;
     }
     .col-1{
-        width: 90%;
+        width: 100%;
     }
     
     .col-2{
-        width: 90%;
+        width: 100%;
     }
     .btn-learnmore {
         height: 1.3rem;
